@@ -2,15 +2,4 @@
 
 College Project Of @YIASCM 2019-22 batch
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Bachelors College Project - A full-fledged, visually pleasing application designed to run on IOS, android, windows, mac and Android TV. The objective of Yenedify is to replace the current attendance tracking system. It uses dynamic QR, serial number, location-proximity tracking, to ensure integrity of a student's attendance. It is created for use in Yenepoya University.
